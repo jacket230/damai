@@ -8,7 +8,7 @@
 邓紫棋演唱会监控效果：  
 <img src="https://github.com/jacket230/damai/blob/main/dzq-yupiao.jpg" alt="余票监控" width="500" >  
 
-郎朗演唱会监控效果：
+郎朗演唱会监控效果：  
 <img src="https://github.com/jacket230/damai/blob/main/yupiao.jpg" alt="余票监控" width="500" >
 
 
