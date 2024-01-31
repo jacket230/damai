@@ -11,6 +11,5 @@
 郎朗演唱会监控效果：  
 <img src="https://github.com/jacket230/damai/blob/main/yupiao.jpg" alt="余票监控" width="500" >
 
-林俊杰JJ20 杭州成都演唱会，抢票，余票监控，告警，演出，票务。
-<img src="https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN0176VzFG2GdSZ2FhKO2_!!2251059038.jpg_q60.jpg_.webp
-" alt="林俊杰JJ演唱会" width="500" >
+林俊杰JJ20 杭州成都演唱会，抢票，余票监控，告警，演出，票务。  
+<img src="https://github.com/jacket230/damai/blob/main/jj20.webp" alt="林俊杰JJ演唱会" width="500" >
