@@ -8,7 +8,7 @@
 #林俊杰 #周杰伦 #邓紫棋 #王嘉尔 #跨年演唱会 #街舞 #这就是街舞
 技术性讨论，包括：控制方式，风控处理，自动化，群控，协议破解，安全监控，告警。
 
-入群不迷路。q群q：955767910  
+入群不迷路。<strong>q裙q：955767910 </strong>   
 邓紫棋演唱会监控效果：  
 <img src="https://github.com/jacket230/damai/blob/main/dzq-yupiao.jpg" alt="余票监控" width="500" >  
 
