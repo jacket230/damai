@@ -23,4 +23,9 @@
 <img src="https://github.com/jacket230/damai/blob/main/jj20.webp" alt="林俊杰JJ演唱会" width="500" >
 
 大麦抢票过程中，有可能出现的各种情况，风控，滑块，弹窗，点击。各种级别的风控。  
-<img src="https://github.com/jacket230/damai/blob/main/multi_phones-min.gif" alt="大麦风控-各种弹窗问题" width="500" >
+<img src="https://github.com/jacket230/damai/blob/main/multi_phones-min.gif" alt="大麦风控-各种弹窗问题" width="500" >  
+https://www.damai.cn/  
+https://m.damai.cn/  
+https://m.piaoxingqiu.com/     
+https://www.moretickets.com/  
+http://app.livelab.com.cn/#/  
