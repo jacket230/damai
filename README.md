@@ -41,9 +41,19 @@
 周杰伦Jayzhou演唱会，抢票，余票监控，告警，演出，票务。  
 <img src="https://github.com/jacket230/damai/blob/main/damai-zhoujielun1.png" alt="周杰伦Jayzhou演唱会" width="500" >
 
+
+
 #### 大麦风控滑块及弹窗处理
-大麦抢票过程中，有可能出现的各种情况，风控，滑块，弹窗，点击。各种级别的风控。  
+大麦抢票过程中，有可能出现的各种情况，风控，滑块，弹窗，点击。各种级别的风控。 
+局部code，不解释。
+<img src="https://github.com/jacket230/damai/blob/main/tech-code1-bbox.png" alt="bboxcode" width="500" >  
+<img src="https://github.com/jacket230/damai/blob/main/tech-code2.png" alt="bboxcode" width="500" >
+
+大麦各种弹窗问题：  
 <img src="https://github.com/jacket230/damai/blob/main/multi_phones-min.gif" alt="大麦风控-各种弹窗问题" width="500" >  
+
+
+
  
 #### 相关抢票网址
 https://www.damai.cn/  
