@@ -16,8 +16,20 @@
 
 #### 入群不迷路。<strong>q裙q：955767910 ，入群需给本项目star一下，多谢小手。</strong>   
 
-#### 效果演示
-邓紫棋演唱会监控效果：  
+#### 效果演示  
+大麦邓紫棋演唱会-2024-03-20更新：    
+<img src="https://github.com/jacket230/damai/blob/main/damaidengziqi-0320.jpg" alt="大麦邓紫棋" width="500" >  
+
+大麦张杰演唱会-2024-03-20更新：    
+<img src="https://github.com/jacket230/damai/blob/main/damai-qiangpiao-0320.png" alt="大麦张杰" width="500" >  
+
+林俊杰演唱会-2024-03-20更新：    
+<img src="https://github.com/jacket230/damai/blob/main/JJlinjunjie1.jpg" alt="JJ林俊杰门票" width="500" >  
+
+秀动许嵩演唱会-2024-03-20更新：    
+<img src="https://github.com/jacket230/damai/blob/main/xiudong-xusong1.jpg" alt="秀动许嵩" width="500" >  
+
+邓紫棋演唱会监控效果 2024-02：  
 <img src="https://github.com/jacket230/damai/blob/main/dzq-yupiao.jpg" alt="余票监控" width="500" >  
 
 郎朗演唱会监控效果：  
@@ -25,6 +37,9 @@
 
 林俊杰JJ20 杭州成都演唱会，抢票，余票监控，告警，演出，票务。  
 <img src="https://github.com/jacket230/damai/blob/main/jj20.webp" alt="林俊杰JJ演唱会" width="500" >
+
+周杰伦Jayzhou演唱会，抢票，余票监控，告警，演出，票务。  
+<img src="https://github.com/jacket230/damai/blob/main/damai-zhoujielun1.png" alt="周杰伦Jayzhou演唱会" width="500" >
 
 #### 大麦风控滑块及弹窗处理
 大麦抢票过程中，有可能出现的各种情况，风控，滑块，弹窗，点击。各种级别的风控。  
