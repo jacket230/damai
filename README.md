@@ -16,9 +16,10 @@
 
 #### 入群不迷路。<strong>q裙q：955767910 ，入群需给本项目star一下，多谢小手。</strong>   
 本裙为有人维护的群，尽量做到无广告，尽量群内500多个行业内的人员，平等沟通，尽快获取行业信息。   
-群主维护群不易，请付费入群。以让群主更有动力维护本群。  加群主好友。
-入群条件A：交个朋友19.9r  
+群主维护群不易，请付费入群。以让群主更有动力维护本群。  加群主好友。  
+<strong>入群条件A：交个朋友19.9r  
 入群条件B：9.9r，并star本项目。  
+</strong>
 <img src="https://github.com/jacket230/damai/blob/main/alipay1.jpg" alt="支付宝" width="200" >
 <img src="https://github.com/jacket230/damai/blob/main/pay-wx1.jpg" alt="支付宝" width="200" >  
 
