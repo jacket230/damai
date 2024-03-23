@@ -19,8 +19,7 @@
 群主维护群不易，请付费入群。以让群主更有动力维护本群。  加群主好友。  
 <strong>入群条件A：交个朋友19.9r  
 入群条件B：9.9r，并star本项目。  
-目前群内：600多人。  
-群700人后，入群金额提高至39.9r+19.9r and star    
+目前群内：600多人。      
 </strong>
 <img src="https://github.com/jacket230/damai/blob/main/alipay1.jpg" alt="支付宝" width="200" >
 <img src="https://github.com/jacket230/damai/blob/main/pay-wx1.jpg" alt="支付宝" width="200" >  
