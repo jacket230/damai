@@ -20,7 +20,8 @@
 <strong>入群条件A：交个朋友19.9r  
 入群条件B：9.9r，并star本项目。  
 目前群内：600多人。      
-</strong>
+</strong>  
+积极发言可以得到群红包奖励，维护健康的群氛围。  
 <img src="https://github.com/jacket230/damai/blob/main/alipay1.jpg" alt="支付宝" width="200" >
 <img src="https://github.com/jacket230/damai/blob/main/pay-wx1.jpg" alt="支付宝" width="200" >  
 
