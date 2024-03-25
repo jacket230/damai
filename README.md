@@ -58,7 +58,6 @@
 <img src="http://www.daydayup365.top/github/damai-zhoujielun1-min.png" alt="周杰伦Jayzhou演唱会" width="300" >
 
 
-
 #### 大麦风控滑块及弹窗处理
 大麦抢票过程中，有可能出现的各种情况，风控，滑块，弹窗，点击。各种级别的风控。 
 局部code，不解释。
