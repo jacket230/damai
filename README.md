@@ -66,13 +66,13 @@
 
 大麦各种弹窗问题：  
 <img src="https://github.com/jacket230/damai/blob/main/multi_phones-min.gif" alt="大麦风控-各种弹窗问题" width="500" >  
-
-
-
- 
+    
 #### 相关抢票网址
 https://www.damai.cn/  
 https://m.damai.cn/  
+https://www.maoyan.com/  
 https://m.piaoxingqiu.com/     
 https://www.moretickets.com/  
 http://app.livelab.com.cn/#/  
+http://daipaidashi.com/  
+https://m.piaoniu.com/  
