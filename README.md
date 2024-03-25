@@ -33,6 +33,8 @@
 
 
 #### 效果演示  
+1  
+<img src="https://s21.ax1x.com/2024/03/25/pF4hMmq.jpg" alt="1大麦邓紫棋" width="500" > 
 大麦邓紫棋演唱会-2024-03-20更新：    
 <img src="https://github.com/jacket230/damai/blob/main/damaidengziqi-0320.jpg" alt="大麦邓紫棋" width="500" >  
 
