@@ -25,11 +25,11 @@
 </strong>  
 
 有一些新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>   
-<img src="http://www.daydayup365.top/github/oldver_chat.jpg" alt="老版本怎么办" width="200" >
-<img src="http://www.daydayup365.top/github/badsoft_chat.jpg" alt="什么软件没用" width="200" >
+<img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
+<img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >
 积极发言可以得到群红包奖励，维护健康的群氛围。  
-<img src="http://www.daydayup365.top/github/alipay1.jpg" alt="支付宝" width="200" >
-<img src="http://www.daydayup365.top/github/pay-wx1.jpg" alt="支付宝" width="200" >  
+<img src="http://www.daydayup365.top/github/alipay1-min.jpg" alt="支付宝" width="200" >
+<img src="http://www.daydayup365.top/github/pay-wx1-min.jpg" alt="支付宝" width="200" >  
 
 
 #### 效果演示  
