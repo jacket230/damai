@@ -21,7 +21,7 @@
 入群条件B：12.34r，并star本项目。 
 目前群内：600多人。  
 > [!CAUTION]
-> 入群备注格式：已star，付款账号xxxx。（格式必须准确）        
+> 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）        
 </strong> 
 有一些新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>   
 <img src="https://github.com/jacket230/damai/blob/main/badsoft_chat.jpg" alt="什么软件没用" width="200" >
