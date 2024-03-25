@@ -19,7 +19,7 @@
 群主维护群不易，请付费入群。以让群主更有动力维护本群。  加群主好友。  
 <strong>入群条件A：交个朋友一杯咖啡：29.9r  
 入群条件B：12.34r，并star本项目。 
-目前群内：600多人。  
+目前群内：620多人。  
 > [!CAUTION]
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）        
 </strong>  
@@ -65,7 +65,7 @@
 <img src="http://www.daydayup365.top/github/tech-code2-min.png" alt="bboxcode" width="500" >
 
 大麦各种弹窗问题：  
-<img src="https://github.com/jacket230/damai/blob/main/multi_phones-min.gif" alt="大麦风控-各种弹窗问题" width="500" >  
+<img src="https://github.com/jacket230/damai/blob/main/multi_phones-min1.gif" alt="大麦风控-各种弹窗问题" width="500" >  
     
 #### 相关抢票网址
 https://www.damai.cn/  
