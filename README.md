@@ -34,28 +34,28 @@
 
 #### 效果演示  
 大麦邓紫棋演唱会-2024-03-20更新：    
-<img src="http://www.daydayup365.top/github/damaidengziqi-0320-min.jpg" alt="大麦邓紫棋" width="500" >  
+<img src="http://www.daydayup365.top/github/damaidengziqi-0320-min.jpg" alt="大麦邓紫棋" width="300" >  
 
 大麦张杰演唱会-2024-03-20更新：    
-<img src="http://www.daydayup365.top/github/damai-qiangpiao-0320-min.png" alt="大麦张杰" width="500" >  
+<img src="http://www.daydayup365.top/github/damai-qiangpiao-0320-min.png" alt="大麦张杰" width="300" >  
 
 林俊杰演唱会-2024-03-20更新：    
-<img src="https://github.com/jacket230/damai/blob/main/JJlinjunjie1.jpg" alt="JJ林俊杰门票" width="500" >  
+<img src="https://github.com/jacket230/damai/blob/main/JJlinjunjie1.jpg" alt="JJ林俊杰门票" width="300" >  
 
 秀动许嵩演唱会-2024-03-20更新：    
-<img src="https://github.com/jacket230/damai/blob/main/xiudong-xusong1.jpg" alt="秀动许嵩" width="500" >  
+<img src="https://github.com/jacket230/damai/blob/main/xiudong-xusong1.jpg" alt="秀动许嵩" width="300" >  
 
 邓紫棋演唱会监控效果 2024-02：  
-<img src="https://github.com/jacket230/damai/blob/main/dzq-yupiao.jpg" alt="余票监控" width="500" >  
+<img src="https://github.com/jacket230/damai/blob/main/dzq-yupiao.jpg" alt="余票监控" width="300" >  
 
 郎朗演唱会监控效果：  
-<img src="https://github.com/jacket230/damai/blob/main/yupiao.jpg" alt="余票监控" width="500" >
+<img src="https://github.com/jacket230/damai/blob/main/yupiao.jpg" alt="余票监控" width="300" >
 
 林俊杰JJ20 杭州成都演唱会，抢票，余票监控，告警，演出，票务。  
-<img src="https://github.com/jacket230/damai/blob/main/jj20.webp" alt="林俊杰JJ演唱会" width="500" >
+<img src="https://github.com/jacket230/damai/blob/main/jj20.webp" alt="林俊杰JJ演唱会" width="300" >
 
 周杰伦Jayzhou演唱会，抢票，余票监控，告警，演出，票务。  
-<img src="https://github.com/jacket230/damai/blob/main/damai-zhoujielun1.png" alt="周杰伦Jayzhou演唱会" width="500" >
+<img src="https://github.com/jacket230/damai/blob/main/damai-zhoujielun1.png" alt="周杰伦Jayzhou演唱会" width="300" >
 
 
 
