@@ -24,8 +24,8 @@
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
 > 群内讨论抢票相关业务，软件及技术，入群费用不退。
 </strong>  
-
-有一些新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>   
+行业内的人积极交流心得体会。你找业内人咨询个问题，不请人喝杯咖啡？<br>
+新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>   
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
 <img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >  
 积极发言可以得到群红包奖励，维护健康的群氛围。    
