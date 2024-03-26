@@ -77,3 +77,17 @@ https://www.moretickets.com/
 http://app.livelab.com.cn/#/  
 http://daipaidashi.com/  
 https://m.piaoniu.com/  
+
+相关接口域名：
+https://mtop.damai.cn/h5/mtop.alibaba.damai.detail.getdetail/  
+https://mtop.damai.cn/h5/mtop.alibaba.detail.subpage.getdetail/  
+https://m.piaoxingqiu.com/cyy_gatewayapi/trade  
+https://m.piaoxingqiu.com/cyy_gatewayapi/show/  
+https://api.livelab.com.cn/performance/app/  
+https://wx.maoyan.com/maoyansh/myshow/  
+
+
+
+
+
+
