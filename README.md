@@ -77,14 +77,24 @@ https://www.moretickets.com/
 http://app.livelab.com.cn/#/  
 http://daipaidashi.com/  
 https://m.piaoniu.com/  
+https://www.showstart.com/  
 
-相关接口域名：
+相关接口域名：   
+大麦（H5端，app端类似，build create自己去看）：  
 https://mtop.damai.cn/h5/mtop.alibaba.damai.detail.getdetail/  
 https://mtop.damai.cn/h5/mtop.alibaba.detail.subpage.getdetail/  
-https://m.piaoxingqiu.com/cyy_gatewayapi/trade  
-https://m.piaoxingqiu.com/cyy_gatewayapi/show/  
-https://api.livelab.com.cn/performance/app/  
+猫眼：  
+https://yanchu.maoyan.com/myshow/ajax/
 https://wx.maoyan.com/maoyansh/myshow/  
+票星球：  
+https://m.piaoxingqiu.com/cyy_gatewayapi/trade/  
+https://m.piaoxingqiu.com/cyy_gatewayapi/show/  
+纷玩岛：  
+https://api.livelab.com.cn/performance/app/  
+秀动：  
+https://wap.showstart.com/pages/
+https://wap.showstart.com/v3/nj/order/  
+
 
 
 
