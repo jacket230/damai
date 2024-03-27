@@ -19,18 +19,20 @@
 群主维护群不易，请付费入群。以让群主更有动力维护本群。  加群主好友。  
 <strong>入群条件A：交个朋友一杯咖啡：29.9r  
 入群条件B：12.34r，并star本项目。 
-目前群内：620多人。  
+目前群内：630多人。  
 > [!CAUTION]
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
 > 群内讨论抢票相关业务，软件、账号、风控及技术，入群费用不退。
 </strong>  
 行业内的人积极交流心得体会。你找业内人咨询个问题，不请人喝杯咖啡？<br>
-新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>   
+新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>  
+<img src="http://www.daydayup365.top/github/QQ-recent.jpg" alt="QQ人数" width="200" >   
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
 <img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >  
 积极发言可以得到群红包奖励，维护健康的群氛围。    
 <img src="http://www.daydayup365.top/github/alipay1-min.jpg" alt="支付宝" width="200" >
 <img src="http://www.daydayup365.top/github/pay-wx1-min.jpg" alt="支付宝" width="200" >    
+
 
 
 #### 效果演示  
