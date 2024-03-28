@@ -14,7 +14,8 @@
 #林俊杰 #周杰伦 #邓紫棋 #王嘉尔 #跨年演唱会 #街舞 #这就是街舞 #太湖湾 #陈奕迅  
 技术性讨论，包括：控制方式，风控处理，自动化，群控，协议破解，安全监控，告警。
 
-#### 入群不迷路。<strong>q裙q：955767910 ，入群需给本项目star一下，多谢小手。</strong>   
+#### 入群不迷路。<strong>q裙q：955767910</strong>   
+
 本裙为有人维护的群，尽量做到无广告，尽量群内500多个行业内的人员，平等沟通，尽快获取行业信息。   
 群主维护群不易，请付费入群。以让群主更有动力维护本群。  加群主好友。  
 <strong>入群条件A：交个朋友一杯咖啡：29.90r  
@@ -22,7 +23,8 @@
 目前群内：650多人。  
 > [!CAUTION]
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
-> 群内讨论抢票相关业务，软件、账号、风控及技术，入群费用不退。
+> 群内讨论抢票相关业务，软件、账号、风控及技术，入群费用不退。  
+> 955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
 </strong>  
 行业内的人积极交流心得体会。你找业内人咨询个问题，不请人喝杯咖啡？<br>
 新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>  
