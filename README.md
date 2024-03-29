@@ -28,7 +28,7 @@
 </strong>  
 行业内的人积极交流心得体会。你找业内人咨询个问题，不请人喝杯咖啡？<br>
 新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>  
-<img src="http://www.daydayup365.top/github/QQ-recent.jpg" alt="QQ人数" width="200" >   
+<img src="http://www.daydayup365.top/github/nums-0329.jpg" alt="QQ人数-0329" width="200" >   
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
 <img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >  
 积极发言可以得到群红包奖励，维护健康的群氛围。    
