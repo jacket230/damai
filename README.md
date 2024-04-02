@@ -31,7 +31,10 @@
 > 955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
 </strong>  
 行业内的人积极交流心得体会。你找业内人咨询问题，不请人喝杯咖啡？<br>
-新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>  
+新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>
+<br><br>
+诚信原则：进群就想拿软件抢中，是不可能的。200块买的软件对抗大麦（阿里系）风控体系，你觉得可能就去买。  <br>
+赠送：别人如果拿软件抢一张票几百块的，凭什么200卖你？想清楚里面的逻辑。  
 <img src="http://www.daydayup365.top/github/nums-0329.jpg" alt="QQ人数-0329" width="200" >   
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
 <img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >  
