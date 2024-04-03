@@ -104,7 +104,7 @@ https://api.livelab.com.cn/performance/app/
 https://wap.showstart.com/pages/
 https://wap.showstart.com/v3/nj/order/  
 
-搞接口的过程中，可能会出现的一些情况：
+搞接口的过程中，可能会出现的一些情况：  
 当前人数过多。
 等等情况，请检查参数，以及账号是否正常。
 
