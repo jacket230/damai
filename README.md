@@ -16,7 +16,7 @@
 
 #### 入群不迷路。<strong>q裙q：955767910  </strong>   
 
-本裙为有人维护的群，尽量做到无广告，尽量群内710多个行业内的人员，平等沟通，尽快获取行业信息。   
+本裙为有人维护的群，尽量做到无广告，尽量群内720多个行业内的人员，平等沟通，尽快获取行业信息。   
 群主花了很多时间维护群，相当不易，请先【捐助】后入群。以持续维护本群。  
 抢票技术问题（大麦风控，逆向，加解密，黑号，抢票等）可入群后加群主好友私聊。  
 <strong>
@@ -24,7 +24,7 @@
 入群条件B：16.98r，并star本项目。  
 入群VIP：打赏超过36r+，可加群主QQ：16790728 VIP入群。（备注：VIP打赏wx/zfb昵称,金额xx）  
 区别：VIP入群，审批入群速度快，A、B不定期审批。  
-目前群内：710多人。 
+目前群内：720多人。 
 > [!CAUTION]
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
 > 群内讨论抢票相关业务，软件、账号、风控及技术，入群费用不退。  
@@ -33,7 +33,8 @@
 行业内的人积极交流心得体会。你找业内人咨询问题，不请人喝杯咖啡？<br>
 新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>
 <br>
-<img src="http://www.daydayup365.top/github/group1.png" alt="QQ群共享文件" width="400" >   
+QQ群共享文件：  
+<img src="http://www.daydayup365.top/github/group1.png" alt="QQ群共享文件">   
 <img src="http://www.daydayup365.top/github/nums-0329.jpg" alt="QQ人数-0329" width="200" >   
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
 <img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >  
