@@ -110,7 +110,16 @@ https://wap.showstart.com/v3/nj/order/
 当前人数过多。
 等等情况，请检查参数，以及账号是否正常。
 
-
+其他开发资料：
+APK反编译基础  
+[Android混淆从入门到精通](https://www.jianshu.com/p/7436a1a32891)<br>
+[APK反编译之一：基础知识](https://blog.csdn.net/lpohvbe/article/details/7981386)<br>
+[Android混淆编译、反混淆、反编译](https://blog.csdn.net/u013082948/article/details/52195514)<br>
+[Android安全攻防战，反编译与混淆技术完全解析（上）](https://guolin.blog.csdn.net/article/details/49738023)  
+[Android安全攻防战，反编译与混淆技术完全解析（下）](https://guolin.blog.csdn.net/article/details/50451259)<br>  
+[Android安全攻防战，反编译与混淆技术完全解析](https://blog.csdn.net/lostinai/article/details/51577124)<br>
+[一个APK中包含多个dex方法](https://www.jianshu.com/p/bf8b1393773a)  
+[Android 程序静态分析](https://blog.csdn.net/banketree/article/details/10919297)    
 
 
 
