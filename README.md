@@ -121,7 +121,9 @@ APK反编译基础
 [一个APK中包含多个dex方法](https://www.jianshu.com/p/bf8b1393773a)  
 [Android 程序静态分析](https://blog.csdn.net/banketree/article/details/10919297)    
 
-[Android逆向之旅—Root检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Root%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)   
-
-
+安卓逆向ROOT攻防：  
+[Android逆向—Root检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Root%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)   
+[Android逆向—Frida Hook教程](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%20Hook%E6%95%99%E7%A8%8B.ipynb)    
+[Android逆向—Frida普适代码合集](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%99%AE%E9%80%82%E4%BB%A3%E7%A0%81%E5%90%88%E9%9B%86.ipynb)    
+[Android逆向—Frida检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)    
 
