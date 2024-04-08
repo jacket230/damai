@@ -110,8 +110,8 @@ https://wap.showstart.com/v3/nj/order/
 当前人数过多。
 等等情况，请检查参数，以及账号是否正常。
 
-其他开发资料：  
-1）抢票安卓APK反编译基础：  
+#### 其他开发资料    
+#### 1）抢票安卓APK反编译基础  
 [Android混淆从入门到精通](https://www.jianshu.com/p/7436a1a32891)<br>
 [APK反编译之一：基础知识](https://blog.csdn.net/lpohvbe/article/details/7981386)<br>
 [Android混淆编译、反混淆、反编译](https://blog.csdn.net/u013082948/article/details/52195514)<br>
@@ -121,7 +121,7 @@ https://wap.showstart.com/v3/nj/order/
 [一个APK中包含多个dex方法](https://www.jianshu.com/p/bf8b1393773a)  
 [Android 程序静态分析](https://blog.csdn.net/banketree/article/details/10919297)    
 
-2）抢票安卓逆向ROOT攻防：  
+#### 2）抢票安卓逆向ROOT攻防    
 [Android逆向—Root检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Root%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)   
 [Android逆向—Frida Hook教程](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%20Hook%E6%95%99%E7%A8%8B.ipynb)    
 [Android逆向—Frida普适代码合集](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%99%AE%E9%80%82%E4%BB%A3%E7%A0%81%E5%90%88%E9%9B%86.ipynb)    
@@ -132,20 +132,35 @@ https://wap.showstart.com/v3/nj/order/
 [Android逆向-工具-GDA超简洁轻便快速的逆向分析工具的使用](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E5%B7%A5%E5%85%B7-GDA%E8%B6%85%E7%AE%80%E6%B4%81%E8%BD%BB%E4%BE%BF%E5%BF%AB%E9%80%9F%E7%9A%84%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.ipynb)    
 [Android逆向—Frida检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)    
 
-3）抢票-JS相关：  
+#### 3）抢票-JS相关    
 [Js反爬技术与处理手段汇总](https://github.com/jacket230/damai/blob/main/Js%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Js%E5%8F%8D%E7%88%AC%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%A4%84%E7%90%86%E6%89%8B%E6%AE%B5%E6%B1%87%E6%80%BB.ipynb)    
 [JavaScript—CryptoJS加解密](https://github.com/jacket230/damai/blob/main/JavaScript%E2%80%94CryptoJS%E5%8A%A0%E8%A7%A3%E5%AF%86.ipynb)    
 
-4）抢票基础工具相关：  
+#### 4）抢票基础工具相关    
 [工具—Unidbg.ipynb](https://github.com/jacket230/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Unidbg.ipynb)    
 [工具—Wireshark详解.ipynb](https://github.com/jacket230/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Wireshark%E8%AF%A6%E8%A7%A3.ipynb)    
 [工具—Apktools安装使用](https://github.com/jacket230/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Apktools%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8.ipynb)    
 [工具与常用网址集](https://github.com/jacket230/damai/blob/main/%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80%E9%9B%86.md)    
 
-5）抢票Python加解密及高性能并发基础：  
+#### 5）抢票Python加解密及高性能并发基础    
 [Python 加密 - 代码实现](https://github.com/jacket230/damai/blob/main/Python%20%E5%8A%A0%E5%AF%86%20-%20%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0.ipynb)    
 [Python 加密之Crypto、pycrypto、pycryptodo](https://github.com/jacket230/damai/blob/main/Python%20%E5%8A%A0%E5%AF%86%E4%B9%8BCrypto%E3%80%81pycrypto%E3%80%81pycryptodome.ipynb)    
 [Python 加密之base64库详解](https://github.com/jacket230/damai/blob/main/Python%20%E5%8A%A0%E5%AF%86%E4%B9%8Bbase64%E5%BA%93%E8%AF%A6%E8%A7%A3.ipynb)    
 [Python 并发编程之概念原理](https://github.com/jacket230/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%A6%82%E5%BF%B5%E5%8E%9F%E7%90%86.ipynb)    
 [Python 并发编程之进程一](https://github.com/jacket230/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%BF%9B%E7%A8%8B%E4%B8%80.ipynb)    
-[Python 并发编程之线程二](https://github.com/jacket230/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BA%BF%E7%A8%8B%E4%BA%8C.ipynb)
+[Python 并发编程之线程二](https://github.com/jacket230/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BA%BF%E7%A8%8B%E4%BA%8C.ipynb)  
+
+#### 6)[安卓刷机教程](https://github.com/jacket230/damai/tree/main/%E5%88%B7%E6%9C%BA)    
+<strong>请在标题[安卓刷机教程]链接中自行寻找，不一一Link。</strong>    
+Hide My Applist 安装教程（隐藏应用列表安装教程）  
+Shamiko教程：基于zygisk的magisk hide  
+Zygisk版本[隐藏应用列表]安装+模板导入图文教程  
+[此方法仅适用于V-AB分区机型]教你如何系统更新保留 MagiskRoot  
+fastboot刷底层分区镜像列表  
+fastboot常用命令  
+如何正确判断小米手机Bl锁状态  
+小米Miflash刷机注意不回锁  
+小米红米全系列解BL锁图文教程  
+面具Magisk隐藏Root图文教程  
+面具隐藏Root设置教程  
+
