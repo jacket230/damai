@@ -1,0 +1,44 @@
+显示fastboot设备
+fastboot devices
+
+获取手机相关信息
+fastboot getvar all
+
+查询手机Bootloader是否解锁
+fastboot getvar unlocked
+
+重启手机
+fastboot reboot
+
+重启到Bootloader
+fastboot reboot-bootloader
+
+擦除分区
+fastboot erase (分区名)
+例：清除system分区：fastboot erase system
+
+刷入分区
+fastboot flash (分区名) (分区镜像)
+例：将boot镜像 "boot.img" 刷入boot分区：fastboot flash boot boot.img
+
+引导启动镜像
+fastboot boot (分区镜像)
+例：启动到recovery分区：fastboot boot recovery.img
+
+刷入ROM
+fastboot update (刷机包)
+例：将 update.zip 刷入：fastboot update update.zip
+
+解锁Bootloader
+fastboot oem unlock
+fastboot flashing unlock
+
+回锁Bootloader
+fastboot oem lock
+fastboot flashing lock
+注：回锁前务必确保手机系统已彻底恢复官方，并且没有刷入任何非官方镜像以及文件，包括Root权限。否则回锁必砖！！！回锁必砖！！！回锁必砖！！！
+
+多设备使用
+fastboot -s (命令)
+通过fastboot devices获取序列号，控制多设备中的一个
+例：清除序列号为'abc'设备的system分区：fastboot -s abc erase system
