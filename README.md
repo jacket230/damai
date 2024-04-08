@@ -121,7 +121,7 @@ APK反编译基础
 [一个APK中包含多个dex方法](https://www.jianshu.com/p/bf8b1393773a)  
 [Android 程序静态分析](https://blog.csdn.net/banketree/article/details/10919297)    
 
-
+[Android逆向之旅—Root检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Root%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)   
 
 
 
