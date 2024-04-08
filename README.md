@@ -126,4 +126,16 @@ APK反编译基础
 [Android逆向—Frida Hook教程](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%20Hook%E6%95%99%E7%A8%8B.ipynb)    
 [Android逆向—Frida普适代码合集](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%99%AE%E9%80%82%E4%BB%A3%E7%A0%81%E5%90%88%E9%9B%86.ipynb)    
 [Android逆向—Frida检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)    
+[Android逆向—抓包：过证书验证](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E6%8A%93%E5%8C%85%EF%BC%9A%E8%BF%87%E8%AF%81%E4%B9%A6%E9%AA%8C%E8%AF%81.ipynb)    
+[Android逆向—脱壳：Frida脱壳实战](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E8%84%B1%E5%A3%B3%EF%BC%9AFrida%E8%84%B1%E5%A3%B3%E5%AE%9E%E6%88%98.ipynb)    
+[Android逆向—r0env逆向环境解读](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94r0env%E9%80%86%E5%90%91%E7%8E%AF%E5%A2%83%E8%A7%A3%E8%AF%BB.ipynb)    
+[Android逆向-工具-GDA超简洁轻便快速的逆向分析工具的使用](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E5%B7%A5%E5%85%B7-GDA%E8%B6%85%E7%AE%80%E6%B4%81%E8%BD%BB%E4%BE%BF%E5%BF%AB%E9%80%9F%E7%9A%84%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.ipynb)    
+[Android逆向—Frida检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)    
 
+JS相关：  
+[Js反爬技术与处理手段汇总](https://github.com/jacket230/damai/blob/main/Js%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Js%E5%8F%8D%E7%88%AC%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%A4%84%E7%90%86%E6%89%8B%E6%AE%B5%E6%B1%87%E6%80%BB.ipynb)    
+[JavaScript—CryptoJS加解密](https://github.com/jacket230/damai/blob/main/JavaScript%E2%80%94CryptoJS%E5%8A%A0%E8%A7%A3%E5%AF%86.ipynb)    
+
+工具相关：  
+[工具—Unidbg.ipynb](https://github.com/jacket230/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Unidbg.ipynb)    
+[工具—Wireshark详解.ipynb](https://github.com/jacket230/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Wireshark%E8%AF%A6%E8%A7%A3.ipynb)    
