@@ -110,8 +110,8 @@ https://wap.showstart.com/v3/nj/order/
 当前人数过多。
 等等情况，请检查参数，以及账号是否正常。
 
-其他开发资料：
-APK反编译基础  
+其他开发资料：  
+1）APK反编译基础：  
 [Android混淆从入门到精通](https://www.jianshu.com/p/7436a1a32891)<br>
 [APK反编译之一：基础知识](https://blog.csdn.net/lpohvbe/article/details/7981386)<br>
 [Android混淆编译、反混淆、反编译](https://blog.csdn.net/u013082948/article/details/52195514)<br>
@@ -121,7 +121,7 @@ APK反编译基础
 [一个APK中包含多个dex方法](https://www.jianshu.com/p/bf8b1393773a)  
 [Android 程序静态分析](https://blog.csdn.net/banketree/article/details/10919297)    
 
-安卓逆向ROOT攻防：  
+2）安卓逆向ROOT攻防：  
 [Android逆向—Root检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Root%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)   
 [Android逆向—Frida Hook教程](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%20Hook%E6%95%99%E7%A8%8B.ipynb)    
 [Android逆向—Frida普适代码合集](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%99%AE%E9%80%82%E4%BB%A3%E7%A0%81%E5%90%88%E9%9B%86.ipynb)    
@@ -132,10 +132,10 @@ APK反编译基础
 [Android逆向-工具-GDA超简洁轻便快速的逆向分析工具的使用](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E5%B7%A5%E5%85%B7-GDA%E8%B6%85%E7%AE%80%E6%B4%81%E8%BD%BB%E4%BE%BF%E5%BF%AB%E9%80%9F%E7%9A%84%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.ipynb)    
 [Android逆向—Frida检测与反检测](https://github.com/jacket230/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)    
 
-JS相关：  
+3）JS相关：  
 [Js反爬技术与处理手段汇总](https://github.com/jacket230/damai/blob/main/Js%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Js%E5%8F%8D%E7%88%AC%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%A4%84%E7%90%86%E6%89%8B%E6%AE%B5%E6%B1%87%E6%80%BB.ipynb)    
 [JavaScript—CryptoJS加解密](https://github.com/jacket230/damai/blob/main/JavaScript%E2%80%94CryptoJS%E5%8A%A0%E8%A7%A3%E5%AF%86.ipynb)    
 
-工具相关：  
+4）工具相关：  
 [工具—Unidbg.ipynb](https://github.com/jacket230/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Unidbg.ipynb)    
 [工具—Wireshark详解.ipynb](https://github.com/jacket230/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Wireshark%E8%AF%A6%E8%A7%A3.ipynb)    
