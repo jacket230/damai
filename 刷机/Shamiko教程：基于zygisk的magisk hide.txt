@@ -1,0 +1,24 @@
+什么是Shamiko
+1，这是个magisk模块
+
+2，这是在zygisk开启情况下，也可以使用的“magisk hide”
+
+3，它是由lsposed开发团队开发的
+
+他有什么用
+1，从某个版本开始，magisk便不再支持magisk hide
+
+2，即便是使用非官方版本magisk，zygisk和magisk hide也只能二选一
+
+3，Shamiko模块就是在zygisk开启情况下也能用的magisk hide
+
+怎么用
+1，当然是确认你已经在magisk中打开了zygisk
+
+2，当然是安装本模块
+
+3，magisk设置中，有个“遵守排除列表”，打开它，然后在“配置排除列表”中，配置你要对谁隐藏root
+
+4，配置好之后，关闭“遵守排除列表”，注意我没写错，这是必要的，不要开启“遵守排除列表”
+
+5，重启手机即可
