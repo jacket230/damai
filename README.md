@@ -27,7 +27,7 @@
 目前群内：720多人。 
 > [!CAUTION]
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
-> 群内讨论抢票相关业务，软件、账号、风控及技术，入群费用不退。  
+> 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。  
 > 955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
 </strong>  
 行业内的人积极交流心得体会。你找业内人咨询问题，不请人喝杯咖啡？<br>
