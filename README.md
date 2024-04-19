@@ -111,7 +111,8 @@ https://wap.showstart.com/v3/nj/order/
 
 搞接口的过程中，可能会出现的一些情况：  
 当前人数过多。
-等等情况，请检查参数，以及账号是否正常。
+等等情况，请检查参数，以及账号是否正常。  
+[CSDN相关链接](https://blog.csdn.net/damaiqiangpiao/article/details/137940611?spm=1001.2014.3001.5501)  
 
 #### 其他开发资料    
 #### 1）抢票安卓APK反编译基础  
