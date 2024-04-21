@@ -46,7 +46,8 @@
 <br>
 QQ群共享文件：  
 <img src="http://www.daydayup365.top/github/group1.png" alt="QQ群共享文件">   
-<img src="http://www.daydayup365.top/github/nums-0329.jpg" alt="QQ人数-0329" width="200" >   
+2024-04-22更新群人数及活跃数据：    
+<img src="http://www.daydayup365.top/github/800-0422.jpg" alt="QQ人数-0329" width="200" >   
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
 <img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >  
 积极发言可以得到群红包奖励，维护健康的群氛围。    
