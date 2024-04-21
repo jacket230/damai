@@ -33,7 +33,9 @@
 > 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。  
 > 955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
 > 因加群主的太多，凡无捐助备注一律不通过，见谅。时间有限、精力有限。
-</strong>  
+</strong>
+入群须知:[请认真阅读正文] (https://github.com/jacket230/damai/blob/main/%E5%85%A5%E7%BE%A4%E4%BB%8B%E7%BB%8D%E5%8F%8A%E9%A1%BB%E7%9F%A5.md)   
+
 行业内的人积极交流心得体会。你找业内人咨询问题，不请人喝杯咖啡？<br>
 新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>
 <br>
