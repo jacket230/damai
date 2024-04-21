@@ -33,7 +33,11 @@
 > 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。  
 > 955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
 > 因加群主的太多，凡无捐助备注一律不通过，见谅。时间有限、精力有限。
-</strong>
+</strong>  
+
+> [!CAUTION]
+> Tg上骗子太多，群主惨痛经历。誓永不在Tg聊天中交易。凡是留tg联系方式的，皆被我定义为骗子。 血淋淋的教训给大家参考！！！ 
+> 本社区只接受微信、支付宝实名制收款，诚信运营！  
   
 请认真阅读[入群须知](https://github.com/jacket230/damai/blob/main/%E5%85%A5%E7%BE%A4%E4%BB%8B%E7%BB%8D%E5%8F%8A%E9%A1%BB%E7%9F%A5.md)后，联系群主入群。  
 
