@@ -201,3 +201,7 @@ fastboot常用命令
 #### 附录：  
 [社群清理不活跃账户日志](https://github.com/jacket230/damai/edit/main/%E7%A4%BE%E5%8C%BA%E6%B8%85%E7%90%86%E6%97%A5%E5%BF%97.md)  
 
+运营不易，请大家珍惜社群，给大家鞠躬了  
+<img src="https://github.com/jacket230/damai/blob/main/yunyingbuyi.jpg" alt="bboxcode" width="500" >
+
+   
