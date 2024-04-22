@@ -34,7 +34,7 @@
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
 > 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。  
 > 955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
-> 警告备注：11、OK、进群的人，别申请了肯定不过，不要自取其辱，一个支付流水对应一个入群资格，极其苛刻。可以移步去听听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
+> 警告某些备注：11、OK、想混进群的人，别申请了肯定不过，不要自取其辱，一个捐助流水对应一个入群资格，极其苛刻。可以移步去听听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
 </strong>  
 
 > [!CAUTION]
