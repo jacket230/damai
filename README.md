@@ -20,8 +20,8 @@
 维护群社区需要花很多时间相当不易，请先【捐助社区】后入群，以持续运营本公益社群。  
 本社区旨在交流抢票科技、业务、技术、开发问题（大麦风控，逆向，加解密，黑号，抢票等）等行业热点，以及搞钱经验。  
 <strong>
-入群条件A：￥69.99 ，并star本项目。（备注：捐助wx/zfb实名名字,金额xx）      
-入群条件B：￥99.99以上，VVIP捐助。（备注：VIP捐助wx/zfb实名名字,金额xx）  
+入群条件A：￥69.99以上 ，并star本项目。（备注：捐助wx/zfb/qq实名名字,金额xx,随机增加几分钱独特性更易审批）      
+入群条件B：￥99.99以上，VVIP捐助。（备注：VIP捐助wx/zfb/qq实名名字,金额xx,随机增加几分钱独特性更易审批）  
 捐助后加群主Q：16790728 （加群加好友，无AB条件格式备注，均不通过！！）  
 单独咨询：抢票技术专家咨询0.5小时/￥1099（需提前2天预约）    
 另，因抢票专家时间有限，单独咨询由此前的999，象征性涨价100元，调整为1099。提前预约由1天，调整为2天排期，请新老客户务必注意变化。    
@@ -50,11 +50,13 @@ QQ群共享文件：
 <img src="http://www.daydayup365.top/github/group1.png" alt="QQ群共享文件">   
 2024-04-22更新群人数及活跃数据：    
 <img src="http://www.daydayup365.top/github/800-0422.jpg" alt="QQ人数-0329" width="200" >   
+<img src="http://www.daydayup365.top/github/jishushen-min.jpg" alt="技术很深" width="200" >
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
 <img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >  
 积极发言可以得到群红包奖励，维护健康的群氛围。    
 <img src="http://www.daydayup365.top/github/alipay1-min.jpg" alt="支付宝" width="200" >
-<img src="http://www.daydayup365.top/github/pay-wx1-min.jpg" alt="支付宝" width="200" >    
+<img src="http://www.daydayup365.top/github/pay-wx1-min.jpg" alt="微信" width="200" >
+<img src="http://www.daydayup365.top/github/qq-pay-min.jpg" alt="qq" width="200" >    
 
 
 
