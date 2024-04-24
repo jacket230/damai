@@ -1,5 +1,5 @@
 # damai 2024-有Q裙Q  
-照顾国内未科学上网用户连接-><a href="http://www.daydayup365.top/github/damai.html" target="_blank">大麦抢票社区国内版介绍</a>
+照顾国内未科学上网用户连接-><a href="http://www.daydayup365.top/github/damai.html" target="_blank">大麦抢票社区介绍</a>（无需科学上网，与本页面内容一致）
 #### 概况  
 监控余票，抢票助手，抢票利器，茅台，i茅台，v3，v5  
 大麦抢票，余票监控，演唱会，演出，猫眼，票星球，纷玩岛，摩天轮，票牛，票务，抢票助手，抢票辅助，抢票专业，抢票，抢票大师，代拍大师，刷回流票    
