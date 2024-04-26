@@ -55,8 +55,9 @@ QQ群共享文件：
 积极发言可以得到群红包奖励，维护健康的群氛围。    
 <img src="http://www.daydayup365.top/github/alipay1-min.jpg" alt="支付宝" width="200" >
 <img src="http://www.daydayup365.top/github/pay-wx1-min.jpg" alt="微信" width="200" >
-<img src="http://www.daydayup365.top/github/qq-pay-min.jpg" alt="qq" width="200" >    
-爱心捐助C：￥199.99以上 （备注：爱心捐助，社区长青）  
+<img src="http://www.daydayup365.top/github/qq-pay-min.jpg" alt="qq" width="200" >
+<img src="http://www.daydayup365.top/github/imtoken-pay-min.jpg" alt="imtoken" width="200" >  
+或等额的usdt、eth等代币至imtoken收款账户  
 
 
 #### 效果演示  
