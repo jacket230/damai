@@ -182,14 +182,16 @@ fastboot常用命令
 面具隐藏Root设置教程  
 
 #### 7) 风控相关（待续） 
-参考群主写的csdn文件[某麦网的一些风控体现之滑块，遭遇过的都抓狂](https://blog.csdn.net/damaiqiangpiao/article/details/138013457)
+参考群主写的csdn文件：[《某麦网的一些风控体现之滑块，遭遇过的都抓狂》](https://blog.csdn.net/damaiqiangpiao/article/details/138013457)  
+  
 1）滑块（大概会涉及到6-8种滑块）  
 1-1）缺口滑块  
 1-2）点选滑块    
 1-3）冰激凌滑块  
 1-4）其他滑块  
-
+  
 2）验证  
+  
 3）关于盾...  
 
 
