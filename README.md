@@ -16,7 +16,7 @@
 
 #### 入群不迷路。<strong>q裙q：955767910  </strong>   
 
-本裙为有人维护的群，尽量做到无广告，群内800多个行业VIP人员，平等沟通，尽快获取行业信息。   
+本裙为有人维护的群，尽量做到无广告，群内820多个行业VIP人员，平等沟通，尽快获取行业信息。   
 维护群社区需要花很多时间相当不易，请先【捐助社区】后入群，以持续运营本公益社群。  
 本社区旨在交流抢票科技、业务、技术、开发问题（大麦风控，逆向，加解密，黑号，抢票等）等行业热点，以及搞钱经验。  
 <strong>
@@ -25,15 +25,16 @@
 捐助后加群主Q：16790728（添加备注须精确，否则均拒绝！）  
 单独咨询：抢票技术专家咨询0.5小时/￥1099（需提前2天预约）        
 区别：B审批入群速度较快，A不定期核实审批，若急入走B通道。  
-目前群内：800多人（流水不腐，长期清理不活跃用户中->[社群清理不活跃账户日志](https://github.com/jacket230/damai/edit/main/%E7%A4%BE%E5%8C%BA%E6%B8%85%E7%90%86%E6%97%A5%E5%BF%97.md)）。     
-你看到抢票行业的QQ群要么是死群，要么刷屏广告。本群都不会发生，高净值付费抢票人群。  
+目前群内：820多人（不定期清理不活跃用户中->[社群清理不活跃账户日志](https://github.com/jacket230/damai/edit/main/%E7%A4%BE%E5%8C%BA%E6%B8%85%E7%90%86%E6%97%A5%E5%BF%97.md)）。     
+你看到抢票行业的QQ群要么是死群，要么刷屏广告。本群都不会发生，高净值付费抢票人群，社区互帮互助。  
 
 
 > [!CAUTION]
-> 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
-> 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。  
-> 955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
-> 想混进群备注：11、OK等的肯定不通过，一笔捐助流水对应一个入群资格。如有闲可去听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
+> 入群备注格式：wx/zfb实名名字xxxx，捐助不退金额xx。（格式必须准确,否则不驳回）  
+> 群内讨论抢票相关业务、软件、账号、风控及技术等，不销售软件，捐助不退。  
+> Q群：955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
+> 一笔捐助流水只精确一个入群资格，备注格式准确匹配方可通过。  
+> 无暇闲聊，若有闲可去听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
 </strong>  
 
 > [!CAUTION]
