@@ -37,10 +37,6 @@
 > 无暇闲聊，若有闲可去听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
 </strong>  
 
-> [!CAUTION]
-> Tg上骗子太多，群主惨痛经历。誓永不在Tg聊天中交易。凡是留tg联系方式的，皆被我定义为骗子。 血淋淋的教训给大家参考！！！ 
-> 本社区只接受微信、支付宝实名制收款，诚信运营！  
-  
 请认真阅读[入群须知](https://github.com/jacket230/damai/blob/main/%E5%85%A5%E7%BE%A4%E4%BB%8B%E7%BB%8D%E5%8F%8A%E9%A1%BB%E7%9F%A5.md)后，联系群主入群。  
 
 行业内的人积极交流心得体会。你找业内人咨询问题，不请人喝杯咖啡？<br>
