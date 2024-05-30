@@ -48,8 +48,8 @@
 <br>
 QQ群共享文件：  
 <img src="http://www.daydayup365.top/github/group1.png" alt="QQ群共享文件">   
-2024-05-28更新群人数及活跃数据（每日数百、千条行业资深人士的洞察内容）：    
-<img src="http://www.daydayup365.top/github/nums-qq-0528.jpg" alt="QQ人数-0528" width="200" >
+2024-05-30更新群人数及活跃数据（每日数百、千条行业资深人士的洞察内容）：    
+<img src="http://www.daydayup365.top/github/nums_0530-min.jpg" alt="QQ人数-0530" width="200" >
 <img src="http://www.daydayup365.top/github/chat_nums.jpg" alt="群内活跃情况，未读消息数量" width="200" >   
 <img src="http://www.daydayup365.top/github/jishushen-min.jpg" alt="技术很深" width="200" >
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
