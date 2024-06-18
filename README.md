@@ -35,7 +35,7 @@
 
 > [!CAUTION]
 > 入群备注格式：wx/zfb实名名字xxxx，捐助不退金额xx。（格式须准确,否则驳回）  
-> 群内讨论抢票业务、软件、账号、风控及技术等，不销售软件（参考[刑法第二百八十五条](https://github.com/jacket230/damai/blob/main/%E5%88%91%E6%B3%95285%E6%9D%A1%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%8F%8A%E6%A1%88%E4%BE%8B.md)）。  
+> 群内讨论抢票业务、软件、账号、风控及技术等，不销售软件。  
 > Q群：955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
 > 一笔捐助流水只精确一个入群资格，备注格式准确匹配方可通过。  
 > 无暇闲聊，若有闲可去听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
