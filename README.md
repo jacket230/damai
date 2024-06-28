@@ -1,4 +1,4 @@
-# damai 2024-有Q裙Q  
+# damai 2024-有Q裙Q（千人群即将满）  
 国内未科学上网用户可访问-><a href="http://www.daydayup365.top/github/damai.html" target="_blank">大麦抢票社区介绍</a>（无需科学上网，与本页面内容一致）
 #### 概况  
 监控余票，抢票助手，抢票利器，茅台，i茅台 v3 v5  
