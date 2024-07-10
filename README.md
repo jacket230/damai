@@ -55,8 +55,11 @@
 行业内的人积极交流心得体会。你找业内人咨询问题，不请人喝杯咖啡？<br>
 新群友说买了谁谁谁的软件抢不到票，<strong> 如果早点进群，不会有损失。</strong>
 <br>
+
 QQ群共享文件：  
 <img src="http://www.daydayup365.top/github/group1.png" alt="QQ群共享文件">   
+聊天内容关键词-2024-07-10更新：    
+<img src="http://www.daydayup365.top/github/chat_log_0710.jpg" alt="聊天内容搜索" width="300" >  
 2024-05-30更新群人数及活跃数据（每日数百、千条行业资深人士的洞察内容）：    
 <img src="http://www.daydayup365.top/github/nums_0530-min.jpg" alt="QQ人数-0530" width="200" >
 <img src="http://www.daydayup365.top/github/chat_nums.jpg" alt="群内活跃情况，未读消息数量" width="200" >   
