@@ -33,7 +33,7 @@
 | 0-990   | - | 89.99r | 99.99r	|      
 | 991-995（火爆）  | ✓ | 159.99r | 199.99r	|       
 | 996-1000（满员） | - | 199.99r | 219.99r	|   
-| 群聊天记录关键词搜索 | ✓ | 49.99次/关键词（提供不超过50个聊天记录截图）	|      
+| 关键词搜索（条件B限定） | ✓ | 范围：建群以来所有的聊天记录	| 49.99次/关键词（提供不超过30个聊天记录的截图）     
   
 目前群内：990多人（千人群，只剩极少名额）。     
 你看到抢票行业的QQ群要么是死群，要么刷屏广告。    
@@ -58,8 +58,10 @@
 
 QQ群共享文件：  
 <img src="http://www.daydayup365.top/github/group1.png" alt="QQ群共享文件">   
-聊天内容关键词-2024-07-10更新：    
-<img src="http://www.daydayup365.top/github/chat_log_0710.jpg" alt="聊天内容搜索" width="300" >  
+  
+【聊天内容关键词】-2024-07-10更新：    
+<img src="http://www.daydayup365.top/github/chat_log_0710.jpg" alt="聊天内容搜索" width="300" >    
+  
 2024-05-30更新群人数及活跃数据（每日数百、千条行业资深人士的洞察内容）：    
 <img src="http://www.daydayup365.top/github/nums_0530-min.jpg" alt="QQ人数-0530" width="200" >
 <img src="http://www.daydayup365.top/github/chat_nums.jpg" alt="群内活跃情况，未读消息数量" width="200" >   
