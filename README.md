@@ -67,8 +67,8 @@ QQ群共享文件：
 <img src="http://www.daydayup365.top/github/oldver_chat-min.jpg" alt="老版本怎么办" width="200" >
 <img src="http://www.daydayup365.top/github/badsoft_chat-min.jpg" alt="什么软件没用" width="200" >  
 积极发言可以得到群红包奖励，维护健康的群氛围。    
-<img src="http://www.daydayup365.top/github/alipay1-min.jpg" alt="支付宝" width="200" >
-<img src="http://www.daydayup365.top/github/pay-wx1-min2.jpg" alt="微信" width="200" >  
+<img src="http://www.daydayup365.top/github/zfb11.jpg" alt="支付宝" width="200" >
+<img src="http://www.daydayup365.top/github/wx11.jpg" alt="微信" width="200" >  
 -> [其他捐助渠道](https://github.com/jacket230/damai/blob/main/%E5%85%B6%E4%BB%96%E6%8D%90%E5%8A%A9%E6%B8%A0%E9%81%93.md)  
 
 
