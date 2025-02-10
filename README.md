@@ -33,7 +33,7 @@
 | 900-1000 | ✓ | 99.99r | 123.99r	|       
 | 关键词搜索（条件B限定） | ✓ | 范围：建群以来所有的聊天记录	| 69.99次/关键词（提供不超过30个聊天记录的截图）     
   
-目前群内：995人（千人群）。     
+目前群内：999人（千人群）。     
 你看到抢票行业的QQ群要么是死群，要么刷屏广告。    
 本群都不会发生，高净值付费抢票人群，社区互帮互助。社区持续活跃中....    
 本群吸引了：抢票科技协议开发人员、黑客、网络安全人员、抢票行业从业人员等  
@@ -44,6 +44,7 @@
 > 入群备注格式：wx/zfb实名名字xxx，捐助不退金额xx。（格式须准确,否则驳回）  
 > 群内讨论抢票业务、软件、账号、风控及技术等，不销售软件。  
 > Q群：955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
+> 如遇群满情况，可捐助后，加群主qq:16790728 获得入群资格。 
 > 一笔捐助流水只精确一个入群资格，备注格式准确匹配方可通过。  
 > 无暇闲聊，若有闲可去听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
 </strong>  
