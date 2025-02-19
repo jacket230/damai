@@ -43,8 +43,8 @@
 > [!CAUTION]
 > 入群备注格式：wx/zfb实名名字xxx，捐助不退金额xx。（格式须准确,否则驳回）  
 > 群内讨论抢票业务、软件、账号、风控及技术等，不销售软件。  
-> Q群：955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
-> 如遇群满情况，可捐助后，加群主qq:16790728 获得入群资格。   
+> 因大群已满，捐助后加入预审Q群获取资格：727641501（预审群）<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Ls8xv1SK9rKv6HQeCmcGF-xJbskf4K_E&jump_from=webapi&authKey=VqS6d6o+uEIOGjGSm4BYQLY+0Un+WJAQdqCLKBbM6IeMhnXA2vHyjc7YHh0bKlHh"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群预审" title="一键入群预审"></a>  
+> 着急入群的情况，可捐助后，加群主qq:16790728 获得入群资格。   
 > 一笔捐助流水只精确一个入群资格，备注格式准确匹配方可通过。  
 > 无暇闲聊，若有闲可去听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
 </strong>  
@@ -222,6 +222,7 @@ fastboot常用命令
 #### 附录：  
 [社群清理不活跃账户日志](https://github.com/jacket230/damai/edit/main/%E7%A4%BE%E5%8C%BA%E6%B8%85%E7%90%86%E6%97%A5%E5%BF%97.md)  
 
+> 正式Q群：955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
 运营不易，请大家珍惜社群，给大家鞠躬了  
 <img src="http://www.daydayup365.top/github/yunyingbuyi.jpg" alt="bboxcode" width="500" >
 
