@@ -43,7 +43,7 @@
 > [!CAUTION]
 > 入群备注格式：wx/zfb实名名字xxx，捐助不退金额xx。（格式须准确,否则驳回）  
 > 群内讨论抢票业务、软件、账号、风控及技术等，不销售软件。  
-> 因大群已满，捐助后加入预审Q群获取资格：727641501（预审群）<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Ls8xv1SK9rKv6HQeCmcGF-xJbskf4K_E&jump_from=webapi&authKey=VqS6d6o+uEIOGjGSm4BYQLY+0Un+WJAQdqCLKBbM6IeMhnXA2vHyjc7YHh0bKlHh"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群预审" title="一键入群预审"></a>  
+> 因大群已满，捐助后加入Q群获取资格：727641501 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Ls8xv1SK9rKv6HQeCmcGF-xJbskf4K_E&jump_from=webapi&authKey=VqS6d6o+uEIOGjGSm4BYQLY+0Un+WJAQdqCLKBbM6IeMhnXA2vHyjc7YHh0bKlHh"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群预审" title="一键入群预审"></a>  
 > 着急入群的情况，可捐助后，加群主qq:16790728 获得入群资格。   
 > 一笔捐助流水只精确一个入群资格，备注格式准确匹配方可通过。  
 > 无暇闲聊，若有闲可去听->[群主的歌单](https://github.com/jacket230/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
