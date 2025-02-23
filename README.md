@@ -222,7 +222,6 @@ fastboot常用命令
 #### 附录：  
 [社群清理不活跃账户日志](https://github.com/jacket230/damai/edit/main/%E7%A4%BE%E5%8C%BA%E6%B8%85%E7%90%86%E6%97%A5%E5%BF%97.md)  
 
-> 正式Q群：955767910 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="一键入群" title="一键入群"></a>  
 运营不易，请大家珍惜社群，给大家鞠躬了  
 <img src="http://www.daydayup365.top/github/yunyingbuyi.jpg" alt="bboxcode" width="500" >
 
